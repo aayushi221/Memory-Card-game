@@ -5,4 +5,4 @@
 <hr>
 <h2> Here's a MEMORY GAME for you </h2>
 <br>
-You can play this game here: (Play Now)[https://aayushi221.github.io/Memory-Card-game/]
+You can play this game here: [Play Now](https://aayushi221.github.io/Memory-Card-game/)
